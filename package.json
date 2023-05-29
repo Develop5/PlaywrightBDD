@@ -1,0 +1,19 @@
+{
+  "name": "playwrightbdd",
+  "version": "1.0.0",
+  "description": "Plawright project with BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Develop5/PlaywrightBDD.git"
+  },
+  "author": "lourdes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Develop5/PlaywrightBDD/issues"
+  },
+  "homepage": "https://github.com/Develop5/PlaywrightBDD#readme"
+}
