@@ -20,6 +20,16 @@ Practices on Plawright by using BDD
 &nbsp;
 
 **Reusability** – Low code / easy to reuse
+&nbsp;
+
+&nbsp;
+
+### Steps ###
+1. Download Node.js
+2. System environment variables -> NODE_HOME = C:\Program Files\nodejs\
+3. Check that node is installed, from command line -> node
+4. Add plugins Cucumber.js and Cucumber+ to Intellij Idea
+
 
 &nbsp;
 
