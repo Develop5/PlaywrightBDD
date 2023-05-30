@@ -32,8 +32,8 @@ Practices on Plawright by using BDD
 5. Download and install yarn for Windows. Close any Git Bash terminal before.
 6. cd react-app (the web application you want to test, so you probably need to have cloned before) 
 7. yarn install (desde Git Bash)
-8. yarn add react-scripts
-9. yarn add react-router-dom@5.2.0
+8. yarn add react-scripts   (because you have cloned a git repo created with an older version of create-react-app or event with another setup)
+9. yarn add react-router-dom@5.2.0   (it is to downgrade the version of the react-router-dom below V6)
 
 
 
