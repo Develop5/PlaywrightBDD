@@ -29,6 +29,12 @@ Practices on Plawright by using BDD
 2. System environment variables -> NODE_HOME = C:\Program Files\nodejs\
 3. Check that node is installed, from command line -> node
 4. Add plugins Cucumber.js and Cucumber+ to Intellij Idea
+5. Download and install yarn for Windows. Close any Git Bash terminal before.
+6. cd react-app (the web application you want to test, so you probably need to have cloned before) 
+7. yarn install (desde Git Bash)
+8. yarn add react-scripts
+9. yarn add react-router-dom@5.2.0
+
 
 
 &nbsp;
