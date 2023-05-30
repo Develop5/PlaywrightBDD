@@ -34,8 +34,7 @@ Practices on Plawright by using BDD
 7. yarn install (desde Git Bash)
 8. yarn add react-scripts   (because you have cloned a git repo created with an older version of create-react-app or event with another setup)
 9. yarn add react-router-dom@5.2.0   (it is to downgrade the version of the react-router-dom below V6)
-10. yarn start
-    The browser will launch the application
+10. yarn start (The browser will launch the application)
 
 
 
